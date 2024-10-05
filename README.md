@@ -1,6 +1,6 @@
-<img width="320" alt="Снимок экрана 2024-10-05 в 21 04 04" src="https://github.com/user-attachments/assets/6a99a720-e69f-4f42-895f-6f1b750cbfc2">
-
 # ❤️ aiogram-bot-template
+
+<img width="320" alt="Снимок экрана 2024-10-05 в 21 04 04" src="https://github.com/user-attachments/assets/6a99a720-e69f-4f42-895f-6f1b750cbfc2">
 
 This Aiogram bot template is designed to simplify the development process and provide a clean, scalable structure for your Telegram bot projects. Built with flexibility and efficiency in mind, it offers the following features:
 
